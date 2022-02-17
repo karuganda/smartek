@@ -106,7 +106,7 @@
                                  <div class="card-body">
                                  <div class="input-group">
                                     <span class="input-group-text text-body"><i class="fas fa-search" aria-hidden="true"></i></span>
-                                    <input type="text" class="form-control" placeholder="Enter phone number">
+                                    <input type="text" class="form-control" placeholder="Enter serial number">
                                     <a class="btn btn-link text-primary text-gradient px-3 mb-0" href="javascript:;"><i class="far fa-paper-plane me-2"></i>Verify</a>
                                     </div>
                                  </div>
