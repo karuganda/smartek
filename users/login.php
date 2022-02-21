@@ -31,28 +31,7 @@
                   </ol>
                   <h6 class="font-weight-bolder mb-0">Home</h6>
                </nav>
-               <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">
-                  <div class="ms-md-auto pe-md-3 d-flex align-items-center">
-                     <ul class="nav nav-footer justify-content-center justify-content-lg-end">
-                        <li class="nav-item">
-                           <a href="../http://localhost/test/aboutus.html" class="nav-link text-muted" target="_blank">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                           <a href="../http://localhost/test/blog.html" class="nav-link text-muted" target="_blank">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                           <a href="../http://localhost/test/contact.html" class="nav-link pe-0 text-muted" target="_blank">Contact</a>
-                        </li>
-                     </ul>
-                  </div>
-                  <ul class="navbar-nav  justify-content-end">
-                     <li class="nav-item d-flex align-items-center">
-                        <a href="http://localhost/test/users/logout.php" class="nav-link text-body font-weight-bold px-0">
-                        <span class="d-sm-inline d-none">Log out</span>
-                        </a>
-                     </li>
-                  </ul>
-               </div>
+               
             </div>
          </nav>
          <!-- End Navbar -->
@@ -70,8 +49,8 @@
                      <div class="col-lg-8 col-md-11">
                         <div class="d-flex">
                            <div class="me-auto">
-                              <h6 class="text-uppercase mb-0 ms-1">powered by</h6>
-                              <h1 class="display-1 font-weight-bold mt-n4 mb-0">  <a href="../http://localhost/test/about.html">SMARTEK</a> </h1>
+                              <h6 class="text-uppercase mb-0 ms-1">powered by</h6><br>
+                              <h1 class="display-1 font-weight-bold mt-n4 mb-0">  <a href="../aboutus.php">SMARTEK</a> </h1>
                            </div>
                            <div class="ms-auto">
                               <img class="w-50 float-end mt-lg-n4" src="../assets/img/small-logos/icon-sun-cloud.png" alt="image sun">
@@ -141,13 +120,13 @@
                <div class="col-lg-6">
                   <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                      <li class="nav-item">
-                        <a href="http://localhost/test/aboutus.html" class="nav-link text-muted" target="_blank">About Us</a>
+                        <a href="../aboutus.php" class="nav-link text-muted" target="_blank">About Us</a>
                      </li>
                      <li class="nav-item">
-                        <a href="http://localhost/test/blog.html" class="nav-link text-muted" target="_blank">Blog</a>
+                        <a href="../blog.php" class="nav-link text-muted" target="_blank">Blog</a>
                      </li>
                      <li class="nav-item">
-                        <a href="http://localhost/test/contact.html" class="nav-link pe-0 text-muted" target="_blank">Contact</a>
+                        <a href="../contactus.php" class="nav-link pe-0 text-muted" target="_blank">Contact</a>
                      </li>
                   </ul>
                </div>
