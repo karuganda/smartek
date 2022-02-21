@@ -43,7 +43,7 @@
                   <div class="row pt-10">
                      <div class="col-lg-1 col-md-1 pt-5 pt-lg-0 ms-lg-5 text-center">
                         <button class="btn btn-white border-radius-lg p-2 mt-2" type="button" data-bs-toggle="tooltip" data-bs-placement="left" title="Home">
-                        <i class="fas fa-home p-2"></i>
+                        <i class="fas fa-home p-2"><a href="../index.php"></a></i>
                         </button>
                      </div>
                      <div class="col-lg-8 col-md-11">
