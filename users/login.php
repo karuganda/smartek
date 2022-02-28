@@ -50,7 +50,7 @@
                         <div class="d-flex">
                            <div class="me-auto">
                               <h6 class="text-uppercase mb-0 ms-1">powered by</h6><br>
-                              <h1 class="display-1 font-weight-bold mt-n4 mb-0">  <a href="../aboutus.php">SMARTEK</a> </h1>
+                              <h1 class="display-1 font-weight-bold mt-n4 mb-0">  <a href="../index.php">SMARTEK</a> </h1>
                            </div>
                            <div class="ms-auto">
                               <img class="w-50 float-end mt-lg-n4" src="../assets/img/small-logos/icon-sun-cloud.png" alt="image sun">
